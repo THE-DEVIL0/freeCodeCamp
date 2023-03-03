@@ -1,6 +1,6 @@
 ---
 id: 637f4e5172c65bc8e73dfe26
-title: Understand Ordered and Unordered List Question C
+title: Впорядкований та невпорядкований список. Запитання C
 challengeType: 15
 dashedName: understand-ordered-and-unordered-list-question-c
 ---

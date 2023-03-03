@@ -1,6 +1,6 @@
 ---
 id: 637f4e7972c65bc8e73dfe2b
-title: Working With Text Question E
+title: Робота з текстом. Запитання E
 challengeType: 15
 dashedName: working-with-text-question-e
 ---

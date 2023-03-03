@@ -1,7 +1,7 @@
 ---
 id: 637f702872c65bc8e73dfe33
 videoId: ta3Oxx7Yqbo
-title: Links and Images Question D
+title: Посилання та зображення. Запитання D
 challengeType: 15
 dashedName: links-and-images-question-d
 ---

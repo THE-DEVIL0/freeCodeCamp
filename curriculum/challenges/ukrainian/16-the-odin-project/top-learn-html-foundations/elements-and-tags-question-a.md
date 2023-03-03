@@ -1,7 +1,7 @@
 ---
 id: 637f4e0e72c65bc8e73dfe1e
 videoId: LGQuIIv2RVA
-title: Elements and Tags Question A
+title: Елементи та теги. Запитання А
 challengeType: 15
 dashedName: elements-and-tags-question-a
 ---

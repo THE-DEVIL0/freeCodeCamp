@@ -1,6 +1,6 @@
 ---
 id: 637f4e2872c65bc8e73dfe21
-title: HTML Boilerplate Question B
+title: Шаблонний код HTML. Запитання B
 challengeType: 15
 dashedName: html-boilerplate-question-b
 ---

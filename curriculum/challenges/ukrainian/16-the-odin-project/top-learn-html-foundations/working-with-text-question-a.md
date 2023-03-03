@@ -1,7 +1,7 @@
 ---
 id: 637f4e5872c65bc8e73dfe27
 videoId: yqcd-XkxZNM
-title: Working With Text Question A
+title: Робота з текстом. Запитання A
 challengeType: 15
 dashedName: working-with-text-question-a
 ---

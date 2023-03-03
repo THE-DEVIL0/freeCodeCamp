@@ -17,7 +17,7 @@ Assume we have defined a function `sum` which adds two numbers together.
 ourSum = sum(5, 12);
 ```
 
-Calling the `sum` function with the arguments of `5` and `12` produces a return value of `17`. This return value is assigned to the `ourSum` variable.
+Calling the `sum` function with the arguments of `5` and `12` produces a return value of `17`. Dieser Rückgabewert ist der `ourSum`-Variable zugewiesen.
 
 # --instructions--
 
